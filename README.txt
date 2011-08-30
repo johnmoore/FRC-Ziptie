@@ -5,7 +5,7 @@ Source available at http://github.com/johnmoore/FRC-Ziptie
 =====
 
 Ziptie
-Copyright (C) 2011 John Moore and Jeremy Jopez
+Copyright (C) 2011 John Moore and Jeremy Lopez
 
 Home page: http://programiscellaneous.com/programming-projects/first-robotics-ziptie/what-is-it/
 
